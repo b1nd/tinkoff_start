@@ -1,18 +1,16 @@
 # Tinkoff Start (Internship) - 01.2020
 
-## Todo
-Добавить описания тасков
+The main goal was to make solutions in functional style, not the fastest or with the least resource usage.
 
 ## Scala 2.13
-Поменять Stream на LazyList
+Change Stream to LazyList, so no need to write .take(n)
 
 ## Task1
-writeNice можно заменить на функцию, работающую только с константой 3
 
 ## Task2
 
 ## Task3
-Можно было бы сделать полностью ленивой (без считывания двух массивов), но мне лень
+Can be done lazily without reading two arrays, did not have enough time
 
 ## Task4
 
